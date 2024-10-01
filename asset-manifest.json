@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/adv-privacy-policy-xac-net/static/css/main.6242daf5.css",
+    "main.css": "/adv-privacy-policy-xac-net/static/css/main.acf7e0c3.css",
     "main.js": "/adv-privacy-policy-xac-net/static/js/main.da95b59e.js",
     "static/js/453.4a7441c5.chunk.js": "/adv-privacy-policy-xac-net/static/js/453.4a7441c5.chunk.js",
     "index.html": "/adv-privacy-policy-xac-net/index.html",
-    "main.6242daf5.css.map": "/adv-privacy-policy-xac-net/static/css/main.6242daf5.css.map",
+    "main.acf7e0c3.css.map": "/adv-privacy-policy-xac-net/static/css/main.acf7e0c3.css.map",
     "main.da95b59e.js.map": "/adv-privacy-policy-xac-net/static/js/main.da95b59e.js.map",
     "453.4a7441c5.chunk.js.map": "/adv-privacy-policy-xac-net/static/js/453.4a7441c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6242daf5.css",
+    "static/css/main.acf7e0c3.css",
     "static/js/main.da95b59e.js"
   ]
 }
