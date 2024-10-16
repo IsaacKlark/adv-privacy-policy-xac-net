@@ -38,7 +38,7 @@ function App() {
         </div>
       </div>
       <h1>{language.language["1"]}</h1>
-      <p><strong>{language.language["2"]}</strong> 01.10.2024</p>
+      <p><strong>{language.language["2"]}</strong> 16.10.2024</p>
 
       <p>{language.language["3"]}</p>
 
@@ -48,6 +48,8 @@ function App() {
         <li><strong>{language.language["6"]}</strong>{language.language["7"]}</li>
         <li><strong>{language.language["8"]}</strong>{language.language["9"]}</li>
         <li><strong>{language.language["10"]}</strong>{language.language["11"]}</li>
+        <li><strong>{language.language["38"]}</strong>{language.language["39"]}</li>
+
       </ul>
       <p>{language.language["12"]}</p>
 
@@ -84,6 +86,16 @@ function App() {
 
       <h2>{language.language["36"]}</h2>
       <p>{language.language["37"]}</p>
+
+      <h2>{language.language["40"]}</h2>
+      <p>{language.language["41"]}</p>
+      <ul>
+        <li>{language.language["42"]}</li>
+        <li>{language.language["43"]}</li>
+        <li>{language.language["44"]}</li>
+        <li>{language.language["46"]}</li>
+      </ul>
+      <p>{language.language["45"]}</p>
 
     </div>
   );

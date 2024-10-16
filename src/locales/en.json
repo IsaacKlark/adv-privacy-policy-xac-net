@@ -34,5 +34,14 @@
   "34": "7. Language Versions",
   "35": "This privacy policy may be translated into different languages for user convenience. However, in case of discrepancies between language versions, the Ukrainian version of this agreement shall take precedence.",
   "36": "8. Contact Information",
-  "37": "If you have any questions or suggestions regarding this privacy policy, please contact us at: khoduk.anatoly@gmail.com"
+  "37": "If you have any questions or suggestions regarding this privacy policy, please contact us at: khoduk.anatoly@gmail.com",
+  "38": "Photos and files: ",
+  "39": "You can upload photos, audio recordings and other files. These data are transferred to the server (back4app) for processing and storage.",
+  "40": "9. Using Permissions",
+  "41": "To provide functionality to the XAC.NET application, we request access to the following permissions:",
+  "42": "Record audio (RECORD_AUDIO): required to record voice messages.",
+  "43": "Camera access (CAMERA): required to upload photos and videos.",
+  "44": "Read/Write External Storage (READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE): Required to access files on your device.",
+  "45": "We use these permissions only with your consent and in accordance with this privacy policy.",
+  "46": "In-app purchases (com.android.vending.BILLING): needed to process purchases made within the app (for example, to disable ads or purchase additional features)."
 }
